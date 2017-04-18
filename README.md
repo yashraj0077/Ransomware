@@ -1,10 +1,10 @@
 # Ransomware
-
-Batch Ransomware for Public Test!
+# Batch Ransomware for Public Test!
 
 This is PC Version of Simple Ransomware!
 
 You Can Modify it Accourding to your Need, If you Modyfy it then please send that MOD on fb.com/pakmonster1337 .
+I will Glad To See Your MOD Ransomware!
 
 You Just Need to Change The Username Before use it.
 
